@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>be.ucll.backend2</groupId>
-    <artifactId>integration-tests</artifactId>
+    <artifactId>controller-integration-tests</artifactId>
     <version>2.0.0-SNAPSHOT</version>
     <name>Controller-Integration-Tests</name>
     <description>Controller-Integration-Tests</description>
